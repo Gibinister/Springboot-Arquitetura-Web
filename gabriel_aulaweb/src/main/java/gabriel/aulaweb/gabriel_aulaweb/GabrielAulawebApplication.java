@@ -15,7 +15,7 @@ import java.util.List;
 public class GabrielAulawebApplication {
 
 
-    private List<Aluno> alunos = new ArrayList<>();
+    private void List<Aluno> alunos = new ArrayList<>();
 
 
     public AlunoController() {
